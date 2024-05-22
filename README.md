@@ -1,2 +1,2 @@
 # DuckHuntClone
-This is a clone of popular pixel game!
+This is a clone of a popular pixel game!
